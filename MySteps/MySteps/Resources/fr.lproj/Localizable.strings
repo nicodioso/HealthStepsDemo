@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  MySteps
+
+  Created by Nico Dioso on 8/8/23.
+  
+*/
+
+"Steps" = "Steps_fr";
+"%@ Steps" = "%@ Steps_fr";
+"No achievements yet" = "No achievements yet_fr";
+"Take the first step!" = "Take the first step!_fr";
+"Achievement" = "Achievement_fr";
+"Achievements" = "Achievements_fr";
+"Step" = "Step_fr";
+"Permissions required" = "Permissions required_fr";
+"Something went wrong." = "Something went wrong._fr";
+"It seems like you declined HealthKit permissions for our app. To fix this, just go to your device's 'Settings', then select 'Health' inside, tap 'Data Access & Devices', find 'MySteps' and ensure 'Read and Write' is turned on. After that, reopen our app for a seamless experience." = "It seems like you declined HealthKit permissions for our app. To fix this, just go to your device's 'Settings', then select 'Health' inside, tap 'Data Access & Devices', find 'MySteps' and ensure 'Read and Write' is turned on. After that, reopen our app for a seamless experience._fr";
+"An unexpected error happened." = "An unexpected error happened._fr";
+"Oh no!" = "Oh no!_fr";
+"Okay" = "Okay_fr";
